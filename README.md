@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Amir-Syahmi
-- 👀 I’m interested in TDA Mapper
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning TDA Mapper/Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me khfy3mam@gmail.com
 
 <!---
 Amir-Syahmi/Amir-Syahmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
